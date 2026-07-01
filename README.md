@@ -103,3 +103,23 @@ Una de las principales características del diseño es su capacidad de modificar
 La elección de un sistema de locomoción basado en patas fue realizada con el objetivo de maximizar la capacidad operativa del robot en escenarios complejos o de emergencia, donde los sistemas tradicionales de ruedas o cadenas podrían presentar limitaciones. La configuración hexápoda permite superar obstáculos, adaptarse a terrenos irregulares, mantener la estabilidad durante el desplazamiento y continuar operando incluso ante condiciones ambientales adversas.
 
 El diseño desarrollado busca combinar movilidad avanzada, estabilidad estructural, adaptabilidad ambiental y aceptación social, convirtiendo al sistema de locomoción en uno de los componentes fundamentales para garantizar la funcionalidad y versatilidad del robot médico.
+
+---
+
+## Diseño del Sistema de Movilidad
+
+A continuación se presentan las dos configuraciones principales del sistema de locomoción hexápoda desarrollado en SolidWorks. La primera corresponde a la configuración operativa, donde el robot despliega completamente sus extremidades para maximizar la movilidad y estabilidad. La segunda muestra la configuración compacta o de interacción, diseñada para reducir la percepción de tamaño y generar una apariencia más amigable y menos intimidante durante la interacción con los pacientes y niños.
+
+<p align="center">
+    <img src="Presentacion%20publica/imagen_patas_extendidas.png" alt="Configuración extendida" width="45%">
+    &nbsp;&nbsp;&nbsp;
+    <img src="Presentacion%20publica/imagen_patas_sentado.png" alt="Configuración compacta" width="45%">
+</p>
+
+<p align="center">
+    <em>
+        Figura 1. Configuración operativa (izquierda) y configuración compacta o de interacción (derecha) del sistema de locomoción hexápoda.
+    </em>
+</p>
+
+---
