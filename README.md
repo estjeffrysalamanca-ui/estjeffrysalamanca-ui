@@ -89,3 +89,17 @@ Con el fin de mantener un seguimiento organizado de la documentación consultada
 </p>
 
 > El archivo contiene la organización detallada de los artículos recopilados durante el desarrollo del proyecto, incluyendo fechas de consulta, clasificación temática y observaciones relevantes para facilitar el seguimiento y análisis de la información.
+
+----------------------------
+
+#  Sistema de Movilidad
+
+Esta carpeta contiene el diseño, modelado y documentación relacionados con el sistema de movilidad del robot médico. El mecanismo de locomoción fue desarrollado utilizando SolidWorks, tomando como referencia la estructura biomecánica y funcional de los artrópodos, específicamente el movimiento de las arañas, debido a su alta capacidad de adaptación y estabilidad en terrenos complejos.
+
+El sistema fue diseñado con una configuración hexápoda, compuesta por un total de seis patas, permitiendo una elevada redundancia mecánica y una gran libertad de movimiento. Cada pata incorpora tres servomotores independientes, proporcionando múltiples grados de libertad que permiten realizar movimientos complejos, ajustes posturales dinámicos y desplazamientos precisos en diferentes tipos de superficies.
+
+Una de las principales características del diseño es su capacidad de modificar su configuración estructural según el contexto operativo. El robot puede adoptar una postura compacta, replegando parcialmente sus extremidades inferiores para generar una apariencia visual más pequeña y menos intimidante para los pacientes, simulando una posición similar a estar sentado o en reposo. Esta capacidad busca mejorar la aceptación humana y la percepción de seguridad durante la interacción médico-paciente.
+
+La elección de un sistema de locomoción basado en patas fue realizada con el objetivo de maximizar la capacidad operativa del robot en escenarios complejos o de emergencia, donde los sistemas tradicionales de ruedas o cadenas podrían presentar limitaciones. La configuración hexápoda permite superar obstáculos, adaptarse a terrenos irregulares, mantener la estabilidad durante el desplazamiento y continuar operando incluso ante condiciones ambientales adversas.
+
+El diseño desarrollado busca combinar movilidad avanzada, estabilidad estructural, adaptabilidad ambiental y aceptación social, convirtiendo al sistema de locomoción en uno de los componentes fundamentales para garantizar la funcionalidad y versatilidad del robot médico.
