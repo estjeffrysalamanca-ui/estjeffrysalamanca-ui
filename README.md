@@ -42,37 +42,37 @@ Este apartado reúne la documentación científica y técnica utilizada como ref
 
 ---
 
-## 📁 Brazo
+##  Brazo
 
 Esta carpeta contiene artículos científicos e investigaciones relacionadas con la cinemática, grados de libertad (DOF), configuraciones mecánicas y aplicaciones especializadas de diferentes tipos de brazos robóticos. El objetivo principal de esta recopilación es comprender los principios de diseño, movimiento y control de manipuladores robóticos que servirán como referencia para el desarrollo del brazo mecánico del proyecto. Los documentos almacenados permiten analizar distintas arquitecturas, capacidades operativas y limitaciones, facilitando la selección de las soluciones más adecuadas para las funciones específicas que desempeñará el robot médico.
 
 ---
 
-## 🤝 Compatibilidad Humana
+##  Compatibilidad Humana
 
 Esta carpeta reúne investigaciones y artículos enfocados en la interacción humano-robot (HRI, Human-Robot Interaction), especialmente en entornos médicos y asistenciales. Los documentos aquí almacenados estudian el grado de aceptación, confianza y percepción que los seres humanos desarrollan hacia los sistemas robóticos en aplicaciones relacionadas con la salud. Debido a que el proyecto está orientado a un robot médico, resulta fundamental comprender aspectos como la empatía artificial, la sensibilidad en la interacción, la generación de confianza y la reducción del estrés o ansiedad en los pacientes, con el fin de desarrollar un sistema que no solo sea funcional, sino también humanamente aceptable y tranquilizador.
 
 ---
 
-## 🗣️ Comunicación
+##  Comunicación
 
 Esta carpeta contiene artículos, estudios y referencias relacionados con los métodos de comunicación e interacción verbal y no verbal entre robots y pacientes. El propósito de esta recopilación es establecer modelos de comunicación que permitan al robot desenvolverse de manera profesional dentro del ámbito médico, manteniendo al mismo tiempo una interacción amigable, clara y comprensible para los usuarios. Los documentos incluidos sirven como guía para definir protocolos de conversación, estrategias de comunicación asistencial y mecanismos de interacción que mejoren la experiencia del paciente durante el proceso de atención.
 
 ---
 
-## 🧠 Inteligencia Artificial
+##  Inteligencia Artificial
 
 En esta carpeta se almacenan artículos científicos, investigaciones y documentos relacionados con diferentes enfoques y aplicaciones de la inteligencia artificial. La recopilación incluye estudios sobre entrenamiento, aprendizaje, toma de decisiones, razonamiento, ética y otros aspectos fundamentales que permiten comprender el desarrollo de sistemas inteligentes. Asimismo, se consideran diferentes perspectivas y metodologías con el objetivo de identificar las estrategias más adecuadas para implementar una inteligencia artificial eficiente, confiable y alineada con las funciones y responsabilidades que deberá desempeñar el robot médico.
 
 ---
 
-## 🚶 Movilidad
+##  Movilidad
 
 Esta carpeta contiene investigaciones y referencias relacionadas con la locomoción y movilidad de sistemas robóticos. Los artículos recopilados permiten analizar diferentes mecanismos de desplazamiento, configuraciones mecánicas y estrategias de navegación utilizadas en robots de diversas aplicaciones. El objetivo es identificar soluciones que permitan al robot desplazarse de manera eficiente, segura y sin limitaciones operativas, garantizando que pueda desarrollar sus funciones médicas y asistenciales de forma adecuada dentro de los entornos para los cuales será diseñado.
 
 ---
 
-## 🌎 Alcance
+##  Alcance
 
 Esta carpeta reúne artículos y estudios orientados a evaluar el impacto potencial, la viabilidad y el alcance que podría tener el proyecto del robot médico. Las investigaciones recopiladas analizan aspectos tecnológicos, sociales, económicos y sanitarios, permitiendo establecer una perspectiva sobre la posible implementación y aceptación de este tipo de sistemas no solo a nivel nacional, sino también en contextos internacionales. El propósito es comprender el potencial de crecimiento y las oportunidades que podrían surgir a partir del desarrollo de esta tecnología.
 
