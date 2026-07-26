@@ -85,3 +85,62 @@ A continuación se presentan las dos configuraciones principales del sistema de 
 </p>
 
 ---
+
+
+## 🧰 Sistemas de Almacenamiento y Atención Médica
+
+El robot cuenta con diferentes sistemas integrados para el almacenamiento, acceso y distribución de recursos médicos. Estos componentes fueron diseñados con el objetivo de ampliar las capacidades operativas del robot y permitirle transportar y disponer de diferentes elementos necesarios durante situaciones de atención médica y emergencia.
+
+---
+
+### 🔄 Sistema de Almacenamiento Rotacional
+
+El sistema de almacenamiento está diseñado como una estructura rotacional capaz de girar sobre su propio eje. Esta configuración permite mejorar la accesibilidad a los diferentes compartimentos y facilita la selección de los insumos médicos almacenados.
+
+El sistema está pensado para almacenar una amplia variedad de suministros médicos, permitiendo que el robot pueda transportar diferentes recursos y acceder a ellos de manera organizada y eficiente según las necesidades de cada situación.
+
+<p align="center">
+    <img src="../Presentacion%20publica/sistema%20de%20almacenamiento.png" alt="Sistema de almacenamiento" width="45%">
+    &nbsp;&nbsp;&nbsp;
+    <img src="../Presentacion%20publica/sistema%20de%20almacenamiento%20open.png" alt="Sistema de almacenamiento abierto" width="45%">
+</p>
+
+<p align="center">
+    <em>Vista general y configuración abierta del sistema de almacenamiento rotacional.</em>
+</p>
+
+---
+
+### ❤️‍🩹 Unidad de Almacenamiento para RCP
+
+La unidad de almacenamiento para RCP está diseñada para transportar y almacenar desfibriladores destinados a situaciones de emergencia médica. El compartimento busca permitir el almacenamiento de múltiples unidades, facilitando su distribución rápida cuando sea necesario.
+
+La posibilidad de transportar más de un desfibrilador puede resultar especialmente útil en situaciones donde se presenten múltiples emergencias de manera simultánea. El diseño busca facilitar el acceso al equipo médico y mejorar la capacidad de respuesta del robot ante escenarios críticos.
+
+<p align="center">
+    <img src="../Presentacion%20publica/unidad de almacenamiento RCP.png" alt="Unidad de almacenamiento RCP" width="45%">
+    &nbsp;&nbsp;&nbsp;
+    <img src="../Presentacion%20publica/unidad RCP abierta.png" alt="Unidad RCP abierta" width="45%">
+</p>
+
+<p align="center">
+    <em>Unidad de almacenamiento para desfibriladores en configuración cerrada y abierta.</em>
+</p>
+
+---
+
+
+### 🖥️ Torso con Pantalla
+
+El torso del robot incorpora un sistema de visualización destinado a facilitar la comunicación de información relevante durante la interacción con los pacientes y el personal médico.
+
+La pantalla puede utilizarse para mostrar información como signos vitales, historial médico, información adicional del paciente, instrucciones, demostraciones y otros datos relevantes para el procedimiento que se esté llevando a cabo. Este sistema busca mejorar la comunicación visual y permitir que la información importante sea presentada de manera clara y accesible.
+
+<p align="center">
+    <img src="../Presentacion%20publica/torso%20pantalla.png" alt="Torso con pantalla" width="45%">
+</p>
+
+<p align="center">
+    <em>Diseño conceptual del torso con sistema de visualización integrado.</em>
+</p>
+---
