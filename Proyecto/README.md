@@ -85,6 +85,33 @@ A continuación se presentan las dos configuraciones principales del sistema de 
 </p>
 
 ---
+##  Sistema de Sensores en las Patas
+
+El robot cuenta con un sistema de sensores integrado en cada una de sus patas, compuesto por dos sensores encargados de controlar diferentes aspectos durante el desplazamiento. Esta configuración permite mejorar la estabilidad del sistema y aumentar la seguridad del robot al desplazarse por diferentes tipos de terrenos.
+
+Uno de los sensores se encarga de medir el ángulo de inclinación de la pata y realizar los ajustes necesarios para mantener el sensor de proximidad en una posición vertical respecto al suelo. De esta manera, aunque la pata cambie de orientación durante el movimiento, el sensor de proximidad puede conservar una posición adecuada para realizar sus mediciones.
+
+El segundo sensor corresponde al sensor de proximidad, el cual se encuentra sujeto al mecanismo de ajuste de la pata. Su función principal es detectar la presencia de objetos o personas cerca de las extremidades del robot. Esto permite que el sistema pueda identificar posibles obstáculos antes de realizar un movimiento y reducir el riesgo de pisar a una persona, golpear objetos o causar daños durante el desplazamiento.
+
+Esta característica resulta especialmente importante cuando el robot se encuentra en terrenos desconocidos o en lugares donde no ha operado anteriormente, ya que permite detectar elementos cercanos que podrían representar un riesgo para las personas, los objetos del entorno o el propio robot.
+
+El sensor encargado de medir el ángulo de la pata trabaja en conjunto con el mecanismo de orientación para mantener el sensor de proximidad siempre en una posición vertical respecto al suelo. De esta forma, se busca garantizar que las mediciones realizadas por el sensor se mantengan orientadas correctamente hacia los elementos próximos al robot, independientemente de los movimientos que realice la pata durante la locomoción.
+
+### Diseño del Sistema de Sensores
+
+A continuación se presenta el diseño del sistema de sensores integrado en una de las patas del robot, donde se puede observar la disposición de los sensores y el mecanismo encargado de mantener el sensor de proximidad orientado hacia el suelo.
+
+<p align="center">
+    <img src="../Presentacion%20publica/sensor_pata.png" alt="Sistema de sensores en la pata" width="60%">
+</p>
+
+<p align="center">
+    <em>
+        Figura 4. Diseño del sistema de sensores de la pata para control de orientación y detección de obstáculos.
+    </em>
+</p>
+
+---
 
 
 ## 🧰 Sistemas de Almacenamiento y Atención Médica
