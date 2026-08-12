@@ -144,3 +144,53 @@ La pantalla puede utilizarse para mostrar información como signos vitales, hist
     <em>Diseño conceptual del torso con sistema de visualización integrado.</em>
 </p>
 ---
+## Sistema de Brazos Robóticos
+
+El robot cuenta con un sistema de brazos robóticos diseñado para proporcionar un amplio rango de movimiento y permitir la realización de diferentes tareas de asistencia. Estos brazos fueron desarrollados buscando que el robot pueda interactuar de manera versátil con su entorno y brindar apoyo tanto en situaciones de emergencia como en actividades específicas relacionadas con el cuidado y atención de las personas.
+
+La configuración de los brazos permite realizar movimientos que pueden ser utilizados para levantar, sostener o proporcionar asistencia física cuando sea necesario. De esta manera, el sistema busca ampliar las capacidades del robot más allá de la atención médica convencional, permitiéndole actuar como un elemento de apoyo ante diferentes situaciones que puedan presentarse durante su operación.
+
+El diseño prioriza un elevado grado de libertad, permitiendo que los brazos adopten diferentes posiciones y orientaciones de acuerdo con la tarea que se esté realizando. Esta característica resulta especialmente importante en escenarios donde se requiera adaptar el movimiento del robot a las condiciones particulares del paciente o del entorno.
+
+### Diseño de los Brazos
+
+A continuación se presentan las configuraciones del sistema de brazos robóticos desarrollado para el robot médico. Las imágenes muestran el diseño de los brazos y su integración como mecanismo de asistencia, destacando su capacidad de movimiento y adaptación para las diferentes funciones previstas.
+
+<p align="center">
+    <img src="../Presentacion%20publica/brazo_1.png" alt="Brazo robótico 1" width="45%">
+    &nbsp;&nbsp;&nbsp;
+    <img src="../Presentacion%20publica/brazo_2.png" alt="Brazo robótico 2" width="45%">
+</p>
+
+<p align="center">
+    <em>
+        Figura 2. Diseño del sistema de brazos robóticos para asistencia y apoyo durante situaciones de emergencia y cuidado.
+    </em>
+</p>
+
+---
+## 🤖 Sistema de Cabeza
+
+La cabeza del robot fue diseñada con un enfoque simple y minimalista, buscando generar una apariencia amigable y reducir la sensación de inquietud o temor durante la interacción con las personas. Su diseño evita elementos visuales excesivamente complejos y se centra principalmente en una gran pantalla ubicada en la parte frontal.
+
+La pantalla funciona como el principal elemento de interacción visual del robot. A través de ella será posible representar diferentes expresiones y movimientos de los ojos, permitiendo que estos se desplacen con libertad para generar una interacción más natural y dinámica con los usuarios.
+
+Además de los elementos visuales de interacción, la pantalla podrá utilizarse para mostrar información médica relevante, como datos del paciente, signos vitales, instrucciones u otra información necesaria durante los procedimientos de atención.
+
+El diseño de la cabeza busca combinar funcionalidad e interacción humano-robot, utilizando una apariencia sencilla que permita al sistema desenvolverse en entornos médicos sin generar una percepción intimidante. De esta manera, la cabeza se convierte en uno de los principales elementos destinados a facilitar una interacción más amigable y natural entre el robot y las personas.
+
+### Diseño de la Cabeza
+
+A continuación se presenta el diseño conceptual de la cabeza del robot médico, donde se puede observar la pantalla frontal que integra el sistema de visualización e interacción.
+
+<p align="center">
+    <img src="../Presentacion%20publica/cabeza.png" alt="Cabeza del robot" width="60%">
+</p>
+
+<p align="center">
+    <em>
+        Figura 3. Diseño conceptual de la cabeza del robot con pantalla frontal para interacción visual y presentación de información médica.
+    </em>
+</p>
+
+---
