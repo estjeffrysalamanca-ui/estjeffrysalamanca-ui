@@ -221,3 +221,126 @@ A continuación se presenta el diseño conceptual de la cabeza del robot médico
 </p>
 
 ---
+
+---
+
+# Actualizaciones y Rediseño: Robot Versión 2.0
+
+En el desarrollo de plataformas robóticas destinadas a la interacción cercana con las personas, el aspecto antropomórfico y biomimético juega un rol determinante en la aceptación psicológica y la disposición del usuario para interactuar de forma segura y confiable. 
+
+Durante el despliegue de la versión inicial del robot, se identificó que la morfología industrial y las líneas de diseño previas proyectaban una estética percibida como tosca o intrusiva. Esta percepción visual podía generar resistencia, desconfianza o sensación de amenaza en los pacientes y el personal de salud, limitando la efectividad de la plataforma en entornos asistenciales.
+
+Con el fin de mitigar este factor y optimizar la interacción humano-robot (**HRI**, por sus siglas en inglés), se desarrolló el **Robot Versión 2.0**. Este rediseño contempla las siguientes mejoras fundamentales:
+
+**Geometría Orgánica y Suave:** Se reemplazaron los aristas agudos y las estructuras expuestas por cubiertas orgánicas de bordes redondeados, proyectando una apariencia más amigable, empática y estéticamente armoniosa.
+**Ergonomía Sensorial y Cercanía:** Se optimizó la disposición exterior de los módulos sensoriales para integrarlos de manera orgánica al chasis, reduciendo la presencia visual de componentes mecánicos expuestos que pudieran resultar intimidantes.
+**Percepción de Seguridad Asistencial:** La nueva paleta de acabados y contornos promueve una sensación de calma, confort y fiabilidad, indispensable para facilitar la toma de signos vitales y la comunicación directa con los usuarios.
+
+<p align="center">
+    <img src="robot2.0.png" alt="Robot Versión 2.0" width="55%">
+</p>
+
+<p align="center">
+    <em>Figura 5. Plataforma robótica Versión 2.0 con diseño optimizado para la interacción social.</em>
+</p>
+
+---
+
+##  Rediseño de la Cabeza e Interfaz Expresiva Curva
+
+Como parte fundamental de la transformación estética y funcional del sistema, se llevó a cabo un rediseño integral de la cabeza del robot. Este desarrollo busca proyectar un rostro más amigable, empático y natural, reduciendo la barrera psicológica entre el usuario y la plataforma tecnológica.
+
+El cambio principal radica en la integración de una **pantalla frontal curva** que se adapta orgánicamente al contorno y volumen de la cabeza. Esta geometría personalizada elimina las aristas rígidas típicas de las pantallas planas convencionales y habilita una interfaz versátil con doble propósito operacional:
+
+**Expresividad y Rostro Didáctico:** Permite desplegar avatares dinámicos y gesticulaciones faciales interactivos. Esta representación emotiva facilita una comunicación más cálida, directa y humana, permitiendo al robot empatizar con el paciente según su estado de ánimo.
+* 🩺 **Visualización de Información Médica e Interacción:** Funciona como un panel didáctico e informativo donde el paciente o el personal de salud pueden consultar en tiempo real signos vitales, alertas clínicas, instrucciones de terapia o datos relevantes del diagnóstico de manera clara y accesible.
+
+<p align="center">
+    <img src="cabeza2.0.png" alt="Rediseño de la Cabeza v2.0" width="50%">
+</p>
+
+<p align="center">
+    <em>Figura 6. Rediseño de la cabeza con pantalla curva integrada para expresión facial e interfaz médica.</em>
+</p>
+
+---
+
+## Módulo de Antenas Interactivas: Aislamiento Acústico y Expresividad Cinemática
+
+Con el fin de enriquecer tanto la capacidad de percepción auditiva como el lenguaje corporal del robot, se diseñó e implementó un par de antenas multifuncionales ubicadas en la zona superior del chasis craneal.
+
+Este desarrollo responde a dos requerimientos clave dentro de la plataforma robótica:
+
+**Filtrado Acústico Avanzado y Aislamiento de Voz:**
+  Las antenas integran una matriz distribuida de **cuatro micrófonos bidireccionales de alta sensibilidad**. Esta configuración geométrica permite capturar el espectro sonoro periférico, procesar el ruido de fondo del entorno mediante algoritmos de procesamiento digital de señales (**DSP**) y aislar eficazmente la voz del paciente o del interlocutor directo, mejorando sustancialmente la tasa de acierto en el reconocimiento del habla.
+    
+**Comunicación No Verbal y Dinamismo Empático:**
+  Más allá de su función sensorial, las antenas actúan como un canal de expresión física no verbal. Gracias a un sistema de microactuación interna, realizan movimientos sutiles y reactivos en sintonía con las emociones proyectadas en la pantalla facial. Este dinamismo postural aporta naturalidad a las interacciones, incrementando la empatía, la fluidez visual y el nivel de confianza del paciente hacia el robot.
+
+<p align="center">
+    <img src="antenas.png" alt="Módulo de Antenas" width="45%">
+</p>
+
+<p align="center">
+    <em>Figura 7. Módulo de antenas para filtrado acústico avanzado y dinamismo expresivo.</em>
+</p>
+
+---
+
+## Rediseño e Integración de la Pantalla Torácica y Sistema de Visión
+
+En la zona frontal del torso se mantuvo la presencia de la pantalla principal orientada al despliegue de datos clínicos y métricas en tiempo real. Sin embargo, para esta segunda versión se realizó una reingeniería estética y estructural con el fin de optimizar la sinergia visual del conjunto.
+
+Las mejoras clave desarrolladas en esta unidad comprenden:
+
+**Integración Orgánica y Sinergia Visual:** Se rediseñó el alojamiento y el marco de la pantalla torácica para adaptarlos de forma continua a las curvas del chasis. Esta integración elimina la apariencia de un módulo superpuesto, logrando un acabado limpio, fluido y visualmente más atrayente para los usuarios.
+**Camuflaje Estructural de la Cámara Superior:** El módulo de visión artificial ubicado inmediatamente sobre la pantalla fue sometido a una optimización de diseño industrial. Mediante un biselado curvo y una carcasa empotrada, la cámara queda térmicamente protegida e integrada cromáticamente con la estructura principal, simulando ser un componente nativo y continuo de la plataforma.
+**Monitoreo Clínico Continuo:** Esta pantalla actúa como la interfaz primaria para que el personal asistencial y el paciente consulten en tiempo real datos biomédicos esenciales, historial de constantes vitales, notificaciones de sensores e indicadores del estado del sistema.
+
+<p align="center">
+    <img src="pantalla2.0.png" alt="Pantalla Torácica v2.0" width="50%">
+</p>
+
+<p align="center">
+    <em>Figura 8. Pantalla torácica rediseñada con integración continua y cámara empotrada.</em>
+</p>
+
+---
+
+## Módulo Espaldar Asistencial: Mochila de Emergencia y Desfibrilación Rápida
+
+Con el fin de dotar al robot de capacidades de respuesta inmediata ante eventos de paro cardiorrespiratorio o arritmias severas, se incorporó un compartimento posterior funcional en forma de mochila médica, optimizado para la portabilidad e intervención crítica.
+
+Las características principales de este sistema son las siguientes:
+
+**Alojamiento para Desfibriladores Automáticos de Bolsillo:** El módulo aloja de forma segura **dos desfibriladores externos automáticos (DEA) ultracompactos de bolsillo**. Esta duplicidad garantiza disponibilidad operativa constante y permite atender escenarios de respuesta rápida sin comprometer el espacio estructural del chasis.
+**Diseño Ergonómico y Acceso de Alta Eficiencia:** El mecanismo de apertura del compartimento posterior se diseñó bajo criterios de respuesta en emergencias (código rojo). Proporciona un desacople rápido e intuitivo para que el personal de salud o los brigadistas puedan extraer los dispositivos en pocos segundos ante un evento de paro cardiaco.
+**Identificación Cromática y Adaptación Social:** El depósito fue modelado con un formato tipo mochila de contornos redondeados que se integra armónicamente a la estética amigable de la Versión 2.0. Asimismo, su acabado en **color rojo de alta visibilidad** facilita la identificación e inspección rápida del equipamiento de emergencia desde cualquier ángulo visual del entorno.
+
+<p align="center">
+    <img src="mochila.png" alt="Módulo Mochila de Emergencia" width="50%">
+</p>
+
+<p align="center">
+    <em>Figura 9. Módulo posterior tipo mochila con desfibriladores de acceso rápido y acabado de alta visibilidad.</em>
+</p>
+
+---
+
+## Sistema de Locomoción Omnidireccional y Mapeo LIDAR
+
+Para garantizar un desplazamiento ágil, seguro y fluido dentro de entornos asistenciales e interiores dinámicos, la plataforma incorpora un sistema de movilidad basado en una base cinemática holonómica.
+
+Las especificaciones técnicas y funcionales de este módulo comprenden:
+
+**Locomoción Holonómica mediante Ruedas Omnidireccionales:** El sistema de tracción se compone de **tres ruedas omnidireccionales** dispuestas simétricamente. Esta configuración le otorga al robot tres grados de libertad en el plano ($x, y, \theta$), permitiéndole realizar desplazamientos laterales, diagonales y rotaciones sobre su propio eje sin necesidad de maniobras previas de giro, optimizando la navegación en pasillos estrechos o habitaciones de hospital.
+**Sistema de Exploración y Mapeo mediante Sensor LIDAR:** Integrado en la base inferior del chasis se encuentra un sensor **LIDAR (Light Detection and Ranging)** de escaneo bidimensional en tiempo real. Este dispositivo emite pulsos de luz láser para medir distancias con alta precisión, permitiendo generar mapas del entorno (**SLAM**) y detectar obstáculos estáticos o dinámicos en un rango de $360^\circ$.
+**Prevención de Colisiones y Navegación Autónoma:** La combinación del sensor LIDAR con la maniobrabilidad de las tres ruedas omnidireccionales permite al sistema ejecutar trayectorias de esquive en tiempo real, garantizando la seguridad de los pacientes, visitantes y del personal médico durante el tránsito del robot.
+
+<p align="center">
+    <img src="movilidad2.0.png" alt="Sistema de Locomoción Omnidireccional" width="50%">
+</p>
+
+<p align="center">
+    <em>Figura 10. Base de movilidad omnidireccional con tres ruedas y sensor LIDAR de mapeo.</em>
+</p>
